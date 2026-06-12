@@ -136,7 +136,7 @@ for i in String:
 print(total)
 
 
-#11. Replace " " withString = input("Enter a string : ")
+#11. Replace " " with "-"
 
 String = input("Enter a string : ")
 l = String.split(" ")
@@ -172,7 +172,7 @@ String = input("Enter a string : ")
 print(String[1::2])
 
 
-#15. Starts and end with]
+#15. Starts and end with
 
 String = input("Enter a string : ")
 

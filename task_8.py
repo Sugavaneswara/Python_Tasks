@@ -178,19 +178,3 @@ String = input("Enter a string : ")
 
 print(String.startswith("i"))
 print(String.endswith("an"))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
